@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-secrets-partages/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Secrets Partagés](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-secrets-partages/) |
+| **Get License** | [Obtain a Music License for Les Secrets Partagés](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-secrets-partages/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans tes yeux je vois la ville, sous les néons de la nuit
+> Ton parfum me fascine, bébé tu es mon envie
+> On roule sans destination, dans ce chic Paris
+> Laisse-moi être ton addiction, jusqu'à ce que l'aube nous oublie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
