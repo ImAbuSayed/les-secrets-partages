@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-secrets-partages/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Les Secrets Partagés](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-secrets-partages/) |
+| **Get License** | [License this song: Les Secrets Partagés](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-secrets-partages/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b656920dfec8106e73607285ab2e3ab287aef1dd9c9f4232a85d6d68538a68bf` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
